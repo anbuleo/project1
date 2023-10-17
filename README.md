@@ -1,5 +1,5 @@
 # project1
-#Travel landing page
+# Travel landing page
  Created a project folder with an index.html file for your content and a style.css file for your styles.
 
 HTML Structure: In the index.html file, set up the basic HTML structure:
